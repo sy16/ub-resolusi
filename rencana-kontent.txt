@@ -2,6 +2,10 @@ Rencana kontent UB
 CSS
 javascript
 *framework javascript
+Angular
+Node jS
 PHP
+Frame work PHP
 *laravel
 *YII2
+
