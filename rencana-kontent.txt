@@ -1,5 +1,8 @@
 Rencana kontent UB
 
 javascript
+fanila
 *framework javascript
+Fullstack
 PHP
+Phyton
