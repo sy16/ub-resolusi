@@ -1,8 +1,11 @@
 Rencana kontent UB
-
+CSS
 javascript
 fanila
 *framework javascript
-Fullstack
+Angular
+Node jS
 PHP
-Phyton
+Frame work PHP
+*laravel
+*YII2
