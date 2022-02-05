@@ -2,4 +2,6 @@ Rencana kontent UB
 
 javascript
 *framework javascript
-PHP
+Angular
+Node jS
+Frame work PHP
