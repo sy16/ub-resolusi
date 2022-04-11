@@ -9,5 +9,7 @@ ada 3 area dalam git
 -> git status * melihat status file
 
 -> git init . * membuat git ddalam folder yang aktif
+
 -> git add . *memindah file dari modified ke stage area
+
 -> git commit -m "commit pertama" * memindah file dari area stage ke commited
